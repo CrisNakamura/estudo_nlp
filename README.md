@@ -1,22 +1,7 @@
-<h3 align="center">🚧 Em construção 🚧</h3>
-
 # Estudo: Processamento de Linguagem Natural - Análise de Sentimentos
 
-# Índice 
-
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Conclusão](#conclusão)
-
 # Descrição do projeto
-Em breve. 🚧
 
-# Funcionalidades e Demonstração da Aplicação
-Em breve. 🚧
+Este projeto tem como objetivo criar um modelo para realizar a análise de sentimentos utilizando os dados do IMdb. O IMdb é um banco de dados que contém avaliações de filmes e séries feitas por usuários. A ideia é utilizar técnicas de processamento de linguagem natural para classificar as avaliações como positivas ou negativas.
 
-# Tecnologias utilizadas
-Em breve. 🚧
-
-# Conclusão
-Em breve. 🚧
+O conjunto de dados está disponível no site: https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr?resource=download
